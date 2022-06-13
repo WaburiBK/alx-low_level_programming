@@ -2,7 +2,7 @@
 #define HOLBERTON_H
 
 /* _putchar */
-int _putchar(int n);
+void _putchar(char n);
 
 /* 0.98 Battery Street */
 void reset_to_98(int n);
